@@ -1,4 +1,16 @@
 # SEI MCP Server
+```
+██╗  ██╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗██╗██╗     ██╗     
+██║  ██║╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██║██║     ██║     
+███████║ ╚████╔╝ ██████╔╝█████╗  ██████╔╝█████╗  ██║██║     ██║     
+██╔══██║  ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔══██╗██╔══╝  ██║██║     ██║     
+██║  ██║   ██║   ██║     ███████╗██║  ██║██║     ██║███████╗███████╗
+╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝
+
+          First AI Market Making Vault on SEI Network 
+              "We make money while you sleep" - The HyperFill Team
+```
+
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![EVM Networks](https://img.shields.io/badge/Networks-30+-green)
